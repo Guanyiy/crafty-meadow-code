@@ -1,12 +1,21 @@
 ---
-title: Publications
-cms_exclude: true
+title: "Publications"
+subtitle: "Journal Articles, Conference Abstracts, and Manuscripts"
+summary: "Peer-reviewed publications, accepted conference abstracts, and manuscripts under preparation."
+type: "page"
 
-# View.
-view: citation
+# Sorting options (recommended)
+# newest first
+sort_by: "date"
+sort_order: "desc"
 
-# Optional header image (relative to `static/media/` folder).
-banner:
-  caption: ''
-  image: ''
+# Display options
+# 1 = list; 2 = compact list; 3 = detailed view with abstracts
+view: 2
+
+# How to group items — optional
+# group_by: "publication_types"
 ---
+
+Below is a selection of my publications, including peer-reviewed articles, accepted conference abstracts, and ongoing manuscript projects.
+
