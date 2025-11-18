@@ -5,7 +5,7 @@ tags:
   - Statistics
   - Multinomial modeling
   - Cognitive aging
-date: 2025-01-01
+date: 2025-05-01
 ---
 
 This project investigates the statistical structure of three-category cognitive-status outcomes in HRS-HCAP and Mex-Cog: **Normal**, **MCI with memory impairment**, and **MCI without memory impairment**.
