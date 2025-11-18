@@ -16,5 +16,5 @@ main:
     weight: 40
 
   - name: "CV"
-    url: "/cv/"
+    url: "/uploads/cv.pdf"
     weight: 50
