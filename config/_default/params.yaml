@@ -58,3 +58,10 @@ features:
     enable: false
   privacy_pack:
     enable: false
+
+# Force homepage to use content/_index.md instead of blocks
+features:
+  homepage:
+    type: "page"
+    enabled: true
+
