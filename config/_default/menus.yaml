@@ -4,27 +4,35 @@
   #   The weight parameter defines the order that the links will appear in.
 
 main:
-# ----- Bio -----
+### ===== Navigation Menu =====
+
+# ----- Home -----
 [[menu.main]]
-name = "Bio"
-url = "/bio/"
+name = "Home"
+url = "/"
 weight = 10
 
-# ----- Papers -----
+# ----- Research -----
 [[menu.main]]
-name = "Papers"
-url = "/publications/"
+name = "Research"
+url = "/research/"
 weight = 20
+
+# ----- Publications -----
+[[menu.main]]
+name = "Publications"
+url = "/publications/"
+weight = 30
 
 # ----- Projects -----
 [[menu.main]]
 name = "Projects"
 url = "/projects/"
-weight = 30
-
-# ----- Experience -----
-[[menu.main]]
-name = "Experience"
-url = "/experience/"
 weight = 40
+
+# ----- CV -----
+[[menu.main]]
+name = "CV"
+url = "/uploads/CV.pdf"
+weight = 50
 
