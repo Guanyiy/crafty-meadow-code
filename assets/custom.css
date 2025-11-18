@@ -1,0 +1,7 @@
+.article {
+  max-width: 780px !important; /* 控制正文最大宽度 */
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
