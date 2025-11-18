@@ -1,11 +1,12 @@
 ---
 title: "Bayesian Hierarchical Modeling of Work Hour Trends"
 summary: "Hierarchical modeling with Stan, reparameterization, MCMC diagnostics, and LOO-CV."
+show_featured: false
 tags:
   - Bayesian modeling
   - MCMC
   - Hierarchical models
-date: 2024-12-01
+date: 2024-09-01
 ---
 
 I built a hierarchical Bayesian model for work hour patterns across 20+ industries using **rstan**, focusing on:
