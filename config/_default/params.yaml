@@ -58,10 +58,10 @@ features:
     enable: false
   privacy_pack:
     enable: false
-
   homepage:
     type: "page"
     enabled: true
+
 
 
 
