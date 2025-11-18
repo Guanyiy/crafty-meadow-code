@@ -33,6 +33,6 @@ weight = 40
 # ----- CV -----
 [[menu.main]]
 name = "CV"
-url = "/uploads/CV.pdf"
+url = "/uploads/CV_Guanyi_Yang.pdf"
 weight = 50
 
