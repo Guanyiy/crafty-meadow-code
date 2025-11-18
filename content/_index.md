@@ -1,13 +1,20 @@
 ---
 title: "Guanyi Yang"
-subtitle: "M.S. in Applied Statistics · University of Michigan"
-summary: "Statistical modeling, diagnostics, and inference with imperfect real-world data."
+subtitle: "Applied Statistics • Measurement • Causal Inference • Cognitive Aging"
+summary: "Master’s student in Applied Statistics at the University of Michigan. My work focuses on statistical modeling, diagnostics, and measurement under real-world data constraints."
 ---
 
-I am a master’s student in **Applied Statistics** at the **University of Michigan**, where I work with **Emily Briceño, PhD** on statistical modeling for cognitive aging studies across Nepal, Mexico, and the United States. My broader interest is developing statistical approaches that remain interpretable and reliable when empirical data depart from classical modeling assumptions—whether because of **missingness, floor effects, zero inflation, or limited covariate overlap**.
+Welcome! I am a master's student in Applied Statistics at the University of Michigan.  
+My research focuses on developing statistical workflows that remain interpretable and diagnostic-driven when empirical data deviate from ideal modeling assumptions.
 
-My training combines theoretical grounding with practical modeling. My B.S. in Financial Mathematics taught me to link abstraction with use, and my M.S. coursework in regression, high-dimensional statistics, machine learning, and causal inference strengthened my habit of **separating identification from estimation** and **using diagnostics to evaluate assumptions** before fitting models. I work primarily in **R and Python** through simulation, resampling, and reproducible pipelines.
+I work primarily in:
 
-Across projects—from cognitive assessments in Nepal to high-frequency behavioral data from digital-cage experiments—I’ve learned that good statistical practice begins with **the scientific estimand**, then **the assumptions needed to identify it**, and only then the procedures that will behave predictably when those assumptions only partially hold. My long-term goal is to build **misspecification-robust inference and diagnostics** for real-world data encountered in the social, behavioral, and health sciences.
+- **Measurement & Cognitive Aging** (HCAP: US, Mexico, Nepal)
+- **Diagnostics & Robust Modeling** (overlap, measurement validity, zero inflation)
+- **High-dimensional behavioral data** (PCA, sparse PCA, clustering)
+- **Causal inference under imperfect overlap**
+- **Semiparametric and misspecification-robust methods**
 
-On this website, you can find my **research**, **publications**, **projects**, and **CV**.
+I am currently working with **Dr. Emily Briceño** on cognitive aging across cross-national HCAP cohorts and on measurement adaptation for low-literacy populations.
+
+Please explore my **Research**, **Publications**, **Projects**, and **CV** using the navigation above.
