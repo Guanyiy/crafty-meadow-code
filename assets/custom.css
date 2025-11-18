@@ -1,7 +1,38 @@
-.article {
-  max-width: 780px !important; /* 控制正文最大宽度 */
-  margin-left: auto !important;
-  margin-right: auto !important;
-  padding-left: 1rem;
-  padding-right: 1rem;
+/* ===== Layout & Typography Relaxation ===== */
+
+/* 整体文字行距更舒展 */
+body {
+  line-height: 1.7;          /* 默认约 1.4，调高让文字更易读 */
+  font-size: 1.02rem;        /* 字体稍大 */
+}
+
+/* 主体区域与页边留白更宽 */
+.article-container,
+.home-section {
+  padding-top: 2rem !important;
+  padding-bottom: 2.5rem !important;
+}
+
+/* 段落之间留一点空间 */
+p {
+  margin-bottom: 1.1em;
+}
+
+/* 标题与正文之间的距离 */
+h1, h2, h3, h4 {
+  margin-top: 1.6em;
+  margin-bottom: 0.6em;
+}
+
+/* 模块之间（例如 Research / Publications / CV）加呼吸感 */
+.home-section {
+  margin-bottom: 3rem;
+  border-bottom: 1px solid rgba(200,200,200,0.25); /* 可选：淡分隔线 */
+  padding-bottom: 2rem;
+}
+
+/* 页脚稍微远一点 */
+footer {
+  margin-top: 3rem;
+  padding-top: 2rem;
 }
