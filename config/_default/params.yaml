@@ -22,6 +22,9 @@ header:
     logo:
       text: "Guanyi Yang"
 
+custom_css:
+  - css/custom.css
+
 footer:
   copyright:
     notice: "© {year} Guanyi Yang. All rights reserved."
